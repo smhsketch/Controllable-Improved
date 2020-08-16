@@ -7,7 +7,7 @@ import net.minecraft.util.IStringSerializable;
  */
 public enum ControllerType implements IStringSerializable
 {
-    DEFAULT("default"),
+    DEFAULT("switch"),
     PLAYSTATION("playstation"),
     XBOX("xbox");
 
